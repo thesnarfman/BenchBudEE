@@ -46,9 +46,9 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 10250 1800 2    60   Input ~ 0
-TC IN +
+TC_IN +
 Text HLabel 10550 4150 2    60   Input ~ 0
-TC IN -
+TC_IN -
 Text HLabel 1600 2950 0    60   Output ~ 0
 MISO
 Text HLabel 1600 2850 0    60   Input ~ 0

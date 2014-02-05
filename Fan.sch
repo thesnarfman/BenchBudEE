@@ -45,16 +45,16 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 10150 1900 0    60   Output ~ 0
-Power+
-Text HLabel 10150 2450 0    60   Input ~ 0
-Power-
-Text HLabel 10150 2700 0    60   Input ~ 0
-Tach
+Text HLabel 10150 1900 2    60   Output ~ 0
+FAN_OUT+
+Text HLabel 10150 2450 2    60   Output ~ 0
+FAN_OUT-
+Text HLabel 10150 2700 2    60   Input ~ 0
+TACH_IN
 Text HLabel 1250 3850 0    60   Output ~ 0
-Tach_Out
+TACH_MEAS
 Text HLabel 1200 3050 0    60   Input ~ 0
-Fan_In
+FAN_EN
 $Comp
 L LM324 U?
 U 1 1 52F18547
@@ -188,7 +188,7 @@ F 3 "" H 2250 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text HLabel 1250 3500 0    60   Output ~ 0
-CUrrent Measure
+CURR_MEAS
 Text HLabel 900  1950 0    60   Input ~ 0
 MOSI
 Text HLabel 900  2250 0    60   Output ~ 0

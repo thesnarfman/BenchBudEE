@@ -46,13 +46,13 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 2300 3400 0    60   Input ~ 0
-DIN+
+RELAY+
 Text HLabel 2300 3750 0    60   Output ~ 0
-DIN-
+RELAY-
 Text HLabel 10300 2650 2    60   BiDi ~ 0
-NC
+RELAY_NC
 Text HLabel 10300 2850 2    60   BiDi ~ 0
-NO
+RELAY_NO
 $Comp
 L PHTRANS U?
 U 1 1 52F1AD9F
@@ -98,7 +98,7 @@ F 3 "~" H 8650 2700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text HLabel 7850 2750 0    60   BiDi ~ 0
-COM
+RELAY_COM
 $Comp
 L R R?
 U 1 1 52F1B259
