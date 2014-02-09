@@ -1,6 +1,6 @@
-update=Wednesday, February 05, 2014 09:02:30 AM
+update=Wednesday, February 05, 2014 07:03:28 PM
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,8 +43,6 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -85,3 +83,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=BenchBudeeLib
+[general]
+version=1
