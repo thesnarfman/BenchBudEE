@@ -1,6 +1,6 @@
-update=2/17/2014 11:36:01 AM
+update=2/19/2014 10:08:55 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -46,8 +46,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=BenchBudeeLib
-[general]
-version=1
 [pcbnew]
 version=1
 LastNetListRead=BenchBudEE.net
@@ -86,3 +84,5 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=BenchBudEE
+[general]
+version=1
